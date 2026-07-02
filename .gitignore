@@ -1,0 +1,23 @@
+# Java
+*.class
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+*.nar
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary Office files
+~$*
