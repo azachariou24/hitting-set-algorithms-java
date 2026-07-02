@@ -16,16 +16,9 @@
 
 </div>
 
+---
 
-
-<p align="center">
-
-&#x20; <img src="images/architecture.png" alt="Architecture" width="900">
-
-</p>
-
-
-\## Overview
+## Overview
 
 
 
@@ -45,11 +38,11 @@ The repository is intended for educational and experimental purposes, providing 
 
 
 
-\---
+---
 
 
 
-\## Why Hitting Set?
+## Why Hitting Set?
 
 
 
